@@ -1,3 +1,74 @@
-.App {
+/* Navigationsstilar */
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #ececec;
+}
+
+.nav-items a {
+  text-decoration: none;
+  margin: 0 1rem;
+  color: #333;
+}
+
+/* Hero Banner-stilar */
+.hero-banner {
+  background-image: url("https://adolfssonbil.se/wp-content/uploads/2022/09/volvo7.png");
+  color: white;
+  padding: 2rem;
   text-align: center;
+}
+
+.search {
+  margin-top: 2rem;
+}
+
+.search input {
+  padding: 0.5rem;
+}
+
+.search button {
+  padding: 0.5rem;
+  background-color: #f00;
+  color: white;
+  border: none;
+}
+
+.hero-buttons .btn {
+  padding: 0.8rem 2rem;
+  margin: 1rem;
+  background-color: #600;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/* Features-sektion */
+.features {
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem 0;
+  background-color: #fafafa;
+}
+
+.feature span {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+/* Footer-stilar */
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+img {
+  width: 200px;
 }
