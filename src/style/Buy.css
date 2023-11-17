@@ -1,0 +1,43 @@
+.search {
+  margin-top: 0%;
+  display: flex;
+  justify-content: center;
+}
+
+.showroom {
+  padding: 2rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 55px;
+  color: dodgerblue;
+}
+
+.header {
+  font-size: 55px;
+  color: #f00;
+}
+
+.car-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.car-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  width: 300px;
+}
+
+.car-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.car-details {
+  text-align: left;
+}

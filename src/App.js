@@ -1,7 +1,7 @@
 import React from "react";
-import "./App.css"; // Se till att dina stilar är korrekt importerade.
-import carlogo from "./CarLogo.png";
+import "./style/App.css";
 import Search from "./components/Search";
+import { Link } from "react-router-dom"; // Importera Link från react-router-dom
 
 function App() {
   return (
@@ -9,14 +9,21 @@ function App() {
       {/* Navigationsfält */}
       <nav className="navigation">
         <div className="logo">
-          <img src={carlogo} alt="AutoMobile logotyp" />
+          <img
+            src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/0bf0ad171269853.646c45ee511bc.jpg"
+            alt="AutoMobile logotyp"
+          />
+        </div>
+        <div className="header-container">
+          <h1 className="header">AutoMobile</h1>
         </div>
         <div className="nav-items">
-          <a href="/buy">Köpa bil</a>
-          <a href="/sell">Sälja bil</a>
-          <a href="/stores">Våra butiker</a>
-          <a href="/contact">Kontakt</a>
-          <a href="/services">Lediga tjänster</a>
+          <Link to="/">Hem</Link>
+          <Link to="/buy">Köpa bil</Link>
+          <Link to="/sell">Sälja bil</Link>
+          <Link to="/stores">Våra butiker</Link>
+          <Link to="/contact">Kontakt</Link>
+          <Link to="/services">Service tjänster</Link>
         </div>
       </nav>
 
@@ -42,15 +49,10 @@ function App() {
         </div>
         <div className="feature">
           <span>Personbil</span>
-          <span>Transportbil</span>
         </div>
       </section>
 
       {/* Aktuella erbjudanden */}
-      <section className="current-offers">
-        <h2>Just nu på Riddermark bil</h2>
-        {/* Komponenter för erbjudanden skulle gå här */}
-      </section>
 
       {/* Footer */}
       <footer className="footer">

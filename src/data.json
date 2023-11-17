@@ -1,0 +1,244 @@
+[
+  {
+    "brand": "Porsche",
+    "model": "Porsche 911 Turbo S",
+    "year": 2022,
+    "mileage": "5000 miles",
+    "color": "Silver Grey",
+    "engineSize": "3.8L 640 hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 263000 €",
+    "image": "https://img.autotrader.co.za/15653850"
+  },
+  {
+    "brand": "Ferrari",
+    "model": "Ferrari 488 GTB",
+    "year": 2021,
+    "mileage": "3200 miles",
+    "color": "Rosso Corsa",
+    "engineSize": "3.9L 660hp",
+    "previousOwners": "Previous owners 2",
+    "price": "Price : 265000 €",
+    "image": "https://ag-spots-2023.o.auroraobjects.eu/2023/01/05/ferrari-488-gtb-c856205012023104726_4.jpg?1672912082"
+  },
+  {
+    "brand": "Lamborghini",
+    "model": "Lamborghini Huracán Performante",
+    "year": 2020,
+    "mileage": "1800 miles",
+    "color": "Verde Mantis",
+    "engineSize": "5.2L 640hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 275000 €",
+    "image": "https://autoartmodels.de/wp-content/uploads/2020/04/79154a-1-scaled.jpg"
+  },
+  {
+    "brand": "Audi",
+    "model": "Audi R8 V10",
+    "year": 2022,
+    "mileage": "1500 miles",
+    "color": "Daytona Gray",
+    "engineSize": "5.2L 780hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 149000 €",
+    "image": "https://www.pcarmarket.com/static/media/uploads/galleries/photos/uploads/galleries/24563-burt-2022-audi-r8/.thumbnails/IMG_1715.jpeg/IMG_1715-tiny-2048x0-0.5x0.jpeg"
+  },
+  {
+    "brand": "BMW M4",
+    "model": "BMW M4 Competition",
+    "year": 2021,
+    "mileage": "2800 miles",
+    "color": "Tanzanite Grey",
+    "engineSize": "3.0L 618hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 79000 €",
+    "image": "https://www.issimi.com/cdn/shop/products/2021BMWM4Competition-G38469-06622.jpg?v=1644023428"
+  },
+  {
+    "brand": "Mercedes-Benz AMG GT R",
+    "model": "Mercedes-Benz AMG GT R",
+    "year": 2020,
+    "mileage": "2200 miles",
+    "color": "AMG Green Hell Mango",
+    "engineSize": "4.0L V8 580hp",
+    "previousOwners": "Previous owners 2",
+    "image": "https://www.pegasusautohouse.com/wp-content/uploads/2020/02/IMG_6559.jpg"
+  },
+  {
+    "brand": "Lexus LC 500",
+    "model": "Lexus LC 500",
+    "year": 2023,
+    "mileage": "500 miles",
+    "color": "Infrared",
+    "engineSize": "5.0L 420hp",
+    "previousOwners": "Previous owners 3",
+    "price": "Price : 33000 €",
+    "image": "https://content.homenetiol.com/2000292/2187579/0x0/2fd6b2bbc37a4bffa5df0443c95e248a.jpg"
+  },
+  {
+    "brand": "McLaren 720S",
+    "model": "McLaren 720S",
+    "year": 2022,
+    "mileage": "1000 miles",
+    "color": "Papaya Spark",
+    "engineSize": "4.0L 680hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 279000 €",
+    "image": "https://cdn.carbuzz.com/gallery-images/2023-mclaren-720s-carbuzz-543544-1600.jpg"
+  },
+  {
+    "brand": "Nissan GT-R Nismo",
+    "model": "Nissan GT-R Nismo",
+    "year": 2021,
+    "mileage": "3500 miles",
+    "color": "Super Silver",
+    "engineSize": "3.8L 650hp",
+    "previousOwners": "Previous owners 2",
+    "price": "Price : 69000 €",
+    "image": "https://cdn.carbuzz.com/gallery-images/1600/702000/700/702768.jpg"
+  },
+  {
+    "brand": "Bugatti Chiron",
+    "model": "Bugatti Chiron",
+    "year": 2020,
+    "mileage": "400 miles",
+    "color": "Nocturne Black",
+    "engineSize": "8.0L 1500hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 1499000 €",
+
+    "image": "https://i.ytimg.com/vi/IsIm2-fejLc/maxresdefault.jpg"
+  },
+  {
+    "brand": "Koenigsegg Jesko",
+    "model": "Koenigsegg Jesko",
+    "year": 2023,
+    "mileage": "100 miles",
+    "color": "Ghost White",
+    "engineSize": "5.0L V8 1600hp",
+    "previousOwners": "Previous owners 0",
+    "price": "Price : 1990000 €",
+    "image": "https://mycarheaven.com/wp-content/uploads/2022/04/koenigsegg-jesko-2-1200x710.jpg"
+  },
+  {
+    "brand": "Mercedes-Benz E220d",
+    "model": "E220d",
+    "year": 2022,
+    "mileage": "2,000 miles",
+    "color": "Selenite Gray",
+    "engineSize": "2.0L 190hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 47000 €",
+    "image": "https://bilweb.se/i?u=56331549&w=836&h=530&c=1"
+  },
+  {
+    "brand": "Volvo XC90",
+    "model": "Volvo XC90",
+    "year": 2021,
+    "mileage": "4,500 miles",
+    "color": "Crystal White",
+    "engineSize": "2.0L 220hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 37000 €",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Volvo/XC-90/10588/1689924353443/front-left-side-47.jpg?imwidth=420&impolicy=resize"
+  },
+  {
+    "brand": "Lexus RX 450h",
+    "model": "Lexus RX 450h",
+    "year": 2022,
+    "mileage": "3,200 miles",
+    "color": "Atomic Silver",
+    "engineSize": "3.5L Hybrid 308hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 39000 €",
+    "image": "https://static.cdn-expressen.se/images/eb/d2/ebd216d388714e698b28cc7f3f1db114/16x9/1960@60.jpg"
+  },
+  {
+    "brand": "Audi A6",
+    "model": "Audi A6",
+    "year": 2023,
+    "mileage": "1,500 miles",
+    "color": "Glacier White",
+    "engineSize": "2.0L 248hp",
+    "previousOwners": "Previous owners 0",
+    "price": "Price : 41000 €",
+    "image": "https://www.carscoops.com/wp-content/uploads/2020/06/audi-a6-50-tfsi-e-phev-uk-pricing-10.jpg"
+  },
+  {
+    "brand": "BMW 520 e",
+    "model": "BMW 520 e",
+    "year": 2021,
+    "mileage": "2,800 miles",
+    "color": "Mineral White",
+    "engineSize": "2.0L 248hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 42900 €",
+    "image": "https://vehicle-images.dealerinspire.com/54ac-18003199/WBA53BJ05PCL33808/651a0760bfc0826d6fad4266aad26b15.jpg"
+  },
+  {
+    "brand": "Tesla Model S",
+    "model": "Tesla Model S",
+    "year": 2022,
+    "mileage": "1,000 miles",
+    "color": "Deep Blue Metallic",
+    "engineSize": "Dual Motor 670hp",
+    "previousOwners": "Previous owners 0",
+    "price": "Price : 79000 €",
+    "image": "https://media.carsandbids.com/cdn-cgi/image/width=2080,quality=70/20309e251cb7341d1fb94cb5d4546882260d2202/photos/rJqBwbpz-fFfgEp_0Aq-(edit).jpg?t=165919549325"
+  },
+  {
+    "brand": "Jaguar XF",
+    "model": "XF",
+    "year": 2023,
+    "mileage": "500 miles",
+    "color": "British Racing Green",
+    "engineSize": "2.0L 246hp",
+    "previousOwners": "Previous owners 0",
+    "price": "Price : 53000 €",
+    "image": "https://www.motortrend.com/uploads/2023/03/2023-Jaguar-XF-P300-R-Dynamic-front-quarter-view-27.jpg"
+  },
+  {
+    "brand": "Genesis G80",
+    "model": "Genesis G80",
+    "year": 2022,
+    "mileage": "1,800 miles",
+    "color": "Himalayan Gray",
+    "engineSize": "2.5L 300hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 79000 €",
+    "image": "https://images.cars.com/cldstatic/wp-content/uploads/genesis-g80-3.5t-prestige-2021-01-angle--exterior--front--grey.jpg"
+  },
+  {
+    "brand": "BMW 745 e",
+    "model": "BMW 745 e",
+    "year": 2022,
+    "mileage": "1,800 miles",
+    "color": "black",
+    "engineSize": "3.0L 368hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 79000 €",
+    "image": "../src/images/bmw_745e.jpeg"
+  },
+  {
+    "brand": "Mercedes-Benz S580 e",
+    "model": "Mercedes-Benz S 580 e",
+    "year": 2022,
+    "mileage": "1,800 miles",
+    "color": "pearl white",
+    "engineSize": "3.0L 380hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 99000 €",
+    "image": "https://www.dubicars.com/images/d751bd/w_1300x760/t-r-d-segrex/49f0dfc9-8cab-4b12-a5ae-1cbdcb869c06.jpg"
+  },
+  {
+    "brand": "Maserati MC20",
+    "model": "MC20",
+    "year": 2022,
+    "mileage": "800 miles",
+    "color": "pearl white",
+    "engineSize": "3.0L V6 630hp",
+    "previousOwners": "Previous owners 1",
+    "price": "Price : 269000 €",
+    "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/108981/mc20-right-front-three-quarter.jpeg?isig=0&q=75"
+  }
+]

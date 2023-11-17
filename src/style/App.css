@@ -15,14 +15,23 @@
 
 /* Hero Banner-stilar */
 .hero-banner {
-  background-image: url("https://adolfssonbil.se/wp-content/uploads/2022/09/volvo7.png");
+  background-color: cadetblue;
+  background-image: url("https://w0.peakpx.com/wallpaper/186/602/HD-wallpaper-aston-martin-dbs-superleggera-concorde-edition-2020-2.jpg");
+  background-repeat: no-repeat;
   color: white;
   padding: 2rem;
   text-align: center;
 }
 
+.nav-items a {
+  font-size: 20px;
+  font-weight: 700;
+  color: #f00;
+}
+
 .search {
-  margin-top: 2rem;
+  margin-top: 10rem;
+  margin-bottom: 2rem;
 }
 
 .search input {
@@ -70,5 +79,10 @@
 }
 
 img {
-  width: 200px;
+  width: 150px;
+}
+
+.header {
+  font-size: 75px;
+  color: #f00;
 }
